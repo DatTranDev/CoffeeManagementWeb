@@ -59,7 +59,7 @@ A modern web-based coffee shop management application built with **Next.js**, de
    ```bash
    npm install
    ```
-3. Create `.env.local` file for environment variables (if needed)
+3. Create `.env.local` file for environment variables 
 4. Start the development server
    ```bash
    npm run dev
